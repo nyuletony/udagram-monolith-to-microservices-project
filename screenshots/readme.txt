@@ -4,3 +4,4 @@ My AWS credits got exhausted before I took the screesnshot of kubectl logs {pod_
 I did the same cluster deployment on another AWS cloud gateway with the same configurations, but the pods keep 
 crushing. I have tried to debug for almost 2 weeks but I have not been successful.
 
+GitHub link: https://github.com/nyuletony/udagram-monolith-to-microservices-project
